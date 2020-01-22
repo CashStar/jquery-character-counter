@@ -14,7 +14,7 @@ __Features:__
 To get started with the character counter, simply reference jQuery and the jQuery Character Counter plugin in your page.
 
 ```html
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>	
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>	
 <script type="text/javascript" src="jquery.charactercounter.js"></script>
 ```
 
